@@ -1,0 +1,4 @@
+service_type,shipments,delayed,delay_rate
+Economy,315,27,0.0857
+Express,243,119,0.4897
+Standard,642,132,0.2056
